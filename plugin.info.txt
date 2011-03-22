@@ -1,0 +1,7 @@
+base    extokenizer
+author  Tom N Harris
+email   tomnharris@whoopdedo.org
+date    2011-03-21
+name    External Tokenizer Plugin
+desc    Use an external program to parse words for the search index.
+url     http://www.dokuwiki.org/plugin:extokenizer

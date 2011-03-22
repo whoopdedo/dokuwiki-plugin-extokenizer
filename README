@@ -1,0 +1,12 @@
+====== External Tokenizer Plugin ======
+
+In complex language scripts, such as Chinese, words cannot be distinguished
+by whitespace alone. This plugin uses an external program to separate words
+in a text for the fulltext search index.
+
+All documentation is available online at:
+
+  * http://dokuwiki.org/plugin:extokenizer
+
+(c) 2011 by Tom N Harris <tnharris@whoopdedo.org>
+See COPYING for license info.
