@@ -5,5 +5,5 @@
  * @author Tom N Harris <tnharris@whoopdedo.org>
  */
 
-$conf['command'] = 'mecab -O wakati';
+$conf['command'] = '/usr/bin/mecab -O wakati';
 
