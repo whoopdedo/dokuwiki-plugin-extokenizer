@@ -32,7 +32,6 @@ class action_plugin_extokenizer extends Dokuwiki_Action_Plugin {
         if (0 == io_exec($command, $event->data, $output)) {
             $event->data = $output;
         }
-        $event->stopPropagation();
         $event->preventDefault();
     }
 }
